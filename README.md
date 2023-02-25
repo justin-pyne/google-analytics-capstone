@@ -4,5 +4,7 @@ Technologies used:
 - Excel and SQL for data exploration, cleaning, and analysis.
 - Tableau for data visualizations.
 
+
 This project is also available on Notion, which I would recommend as a more readable format: 
+
 https://www.notion.so/jpyne/Cyclistic-Case-Study-f0a0824cdaed49de9a27590e21b6dd96
